@@ -1,0 +1,119 @@
+.search {
+  padding-bottom: 20px;
+}
+.search-list {
+  background: rgb(216, 162, 13);
+  border-radius: 20px;
+  padding: 20px 0 20px 0;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.search-list button {
+  border: none;
+  width: 90%;
+  background: rgb(11, 75, 148);
+  color: white;
+  margin-top: 20px;
+}
+.menu-input {
+  text-align: left;
+  margin-left: 5px;
+}
+.search-list h5 {
+  text-align: left;
+  margin-left: 15px;
+  font-weight: 900;
+}
+.menu-in {
+  margin-left: 30px;
+}
+.input {
+  width: 90%;
+}
+.search-list__p {
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.inpu {
+  width: 60px;
+  text-align: right;
+  margin-left: 50px;
+  margin-right: 11px;
+}
+
+td {
+  font-size: 70%;
+  text-align: left;
+  border: 2px solid rgb(216, 162, 13);
+}
+.search-row_md {
+  border: 1px solid rgb(223, 201, 201);
+  margin-top: 20px;
+
+  border-radius: 5px;
+}
+.search-row_md h4 {
+  color: rgb(9, 80, 187);
+  margin-top: 10px;
+}
+.search-row_md p {
+  font-size: 90%;
+}
+.search-tag {
+  color: white;
+  background: green;
+  border-radius: 6px;
+  width: 120px;
+  font-weight: bold;
+}
+.search-free {
+  color: green;
+}
+.search-rate {
+  font-weight: 600;
+  margin-top: 5px;
+  font-size: 95%;
+}
+.search-rate span {
+  color: aliceblue;
+  background: rgb(15, 5, 158);
+  font-weight: 100;
+  float: right;
+  padding: 2px;
+}
+.search-rate span::after {
+  clear: both;
+  display: block;
+}
+.search-price {
+  float: right;
+  margin-top: 7rem;
+}
+.search-price button {
+  background: rgb(9, 80, 187);
+  border: none;
+  margin-left: 50px;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 15px 5px 15px;
+}
+.search-price__p {
+  font-weight: bold;
+  margin-left: 60%;
+}
+.search-text {
+  margin-left: 10%;
+  font-weight: 50;
+}
+.search img {
+  height: 40vh;
+  margin-top: 10px;
+}
+.search-list__test {
+  margin-left: 10px;
+}
+.search-list__td {
+  margin-left: 30px;
+}

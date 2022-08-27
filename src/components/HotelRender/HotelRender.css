@@ -1,0 +1,22 @@
+.hotel-img img {
+  width: 98%;
+  height: 31vh;
+  margin-left: 5px;
+  margin-top: 15px;
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+}
+.hotel-img {
+  width: 20%;
+}
+.hotel-row {
+  margin-left: -25px;
+  /* margin-right: -20px; */
+}
+.hotel-name {
+  margin-left: 10px;
+}
+.hotel-row h3 {
+  margin-left: 10px;
+  margin-top: 20px;
+}

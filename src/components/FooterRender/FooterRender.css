@@ -1,0 +1,11 @@
+.footer-render {
+  color: rgb(24, 101, 163);
+}
+.footer-render__row {
+  margin-left: 1rem;
+  width: 100%;
+  margin-top: 1rem;
+}
+.footer-render__p {
+  margin-left: 25px;
+}

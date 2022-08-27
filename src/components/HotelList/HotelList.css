@@ -1,0 +1,26 @@
+.hotelList-img img {
+  width: 98%;
+  height: 31vh;
+  margin-left: 4px;
+  margin-top: 20px;
+
+  width: 100%;
+}
+.hotel-list {
+  margin: auto;
+}
+.hotel-list__row {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.hotelList-img {
+  width: 98%;
+}
+.hotel-list__footer span {
+  margin-right: 5px;
+  background: rgb(4, 4, 48);
+  color: white;
+}
+.hoel-list__p {
+  font-weight: bold;
+}

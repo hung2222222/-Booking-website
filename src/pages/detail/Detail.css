@@ -1,0 +1,36 @@
+.detail-distance {
+  color: rgb(15, 84, 163);
+  font-weight: 500;
+}
+.detail-price {
+  color: green;
+  font-weight: 500;
+}
+.detail-bt {
+  background: rgb(9, 80, 187);
+  border: none;
+  margin-left: 66px;
+  border-radius: 5px;
+  color: white;
+  padding: 13px 15px;
+}
+.detail-img {
+  width: 100%;
+  margin-top: 20px;
+}
+.detail-nine {
+  background: rgb(157, 185, 181);
+  border-radius: 5px;
+  padding-bottom: 2rem;
+  width: 25%;
+  margin-left: 93px;
+  margin-bottom: 20px;
+}
+.detail-nine button {
+  width: 98%;
+  border: none;
+  background: rgb(9, 80, 187);
+  color: white;
+  padding: 10px 0 10px 0;
+  border-radius: 5px;
+}

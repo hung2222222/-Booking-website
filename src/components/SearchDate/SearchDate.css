@@ -1,0 +1,23 @@
+.calendarWrapS {
+  display: inline-block;
+  position: relative;
+}
+
+.calendarElementS {
+  position: absolute;
+  left: 42%;
+  transform: translateX(-50%);
+  top: 57%;
+  border: 1px solid #ccc;
+  z-index: 999;
+}
+.boderSearch {
+  border: 1px solid black;
+}
+#searchDate input {
+  width: 100%;
+  margin-left: 10px;
+  height: 3rem;
+  margin-top: -0.5px;
+  font-weight: 50;
+}

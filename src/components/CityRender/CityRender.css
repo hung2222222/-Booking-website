@@ -1,0 +1,23 @@
+.contain-img {
+  margin-top: 50px;
+  background: white;
+  width: 90%;
+}
+.contain-img::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.absolute {
+  position: absolute;
+  margin-top: 12rem;
+  margin-left: 3rem;
+  color: white;
+  font-size: 110%;
+}
+.city-img img {
+  width: 98%;
+  border-radius: 20px;
+  height: 50vh;
+}

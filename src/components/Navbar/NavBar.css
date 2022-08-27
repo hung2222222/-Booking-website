@@ -1,0 +1,40 @@
+.contaner-navbar {
+  background: blue;
+  color: white;
+  width: 100%;
+}
+.navbar-button {
+  margin-right: -20px;
+}
+.navbar-button button {
+  border: 1px solid blueviolet;
+}
+.navabar-sl1 {
+  margin-left: 50px;
+}
+.navbar-sl {
+  list-style-type: none;
+  margin-left: 2rem;
+}
+
+.navbar-sl p {
+  float: left;
+  margin-left: 20px;
+  padding: 5px;
+}
+.navbar-sl::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.active {
+  border: 1px white solid;
+  border-radius: 20px;
+}
+.navbar-sl i {
+  padding-right: 3px;
+}
+
+.navbar-row {
+  padding: 10px;
+}

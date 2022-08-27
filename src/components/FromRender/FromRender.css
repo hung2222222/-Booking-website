@@ -1,0 +1,22 @@
+.from-render {
+  background: blue;
+
+  color: white;
+  text-align: center;
+  padding: 20px 0 40px 0;
+}
+.from-render input {
+  border-radius: 5px;
+  padding: 7px 0 9px 0;
+  border: 0px;
+  width: 20%;
+}
+.from-render button {
+  background: rgb(13, 78, 175);
+  padding: 12px 5px;
+  margin-left: 9px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  font-size: 90%;
+}
